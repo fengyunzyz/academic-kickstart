@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yun Feng
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student at department of SEEM
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: City University of Hong Kong
+  url: "https://www.cityu.edu.hk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
