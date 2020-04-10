@@ -24,6 +24,7 @@ interests:
 - Fault Diagnosis
 - Distributed Parameter Systems
 - Computational Intelligence
+- Battery Management System
 
 education:
   courses:
@@ -69,5 +70,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yun Feng is a PhD student at the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong. His current research interests include fault diagnosis of distributed parameter systems and computational intelligence.
+Yun Feng is a PhD student at the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong. 
 
