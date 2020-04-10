@@ -22,9 +22,11 @@ bio: My research interests include fault diagnosis, distributed parameter system
 
 interests:
 - Fault Diagnosis
-- Distributed Parameter Systems
 - Computational Intelligence
 - Battery Management System
+- Distributed Parameter Systems
+
+
 
 education:
   courses:
