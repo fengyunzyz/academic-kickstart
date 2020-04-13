@@ -1,11 +1,11 @@
 ---
-title: "Abnormal Source Identification for Parabolic Distributed Parameter Systems"
+title: "Dynamic Spatial-Independent-Component-Analysis-Based Abnormality Localization for Distributed Parameter Systems"
 authors:
 - admin
 -  Han-Xiong Li 
 
-date: "2019-12-09T00:00:00Z"
-doi: "10.1109/TSMC.2019.2956985"
+date: "2020-02-19T00:00:00Z"
+doi: "10.1109/TII.2019.2900226"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,22 +17,22 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+publication: "IEEE Transactions on Industrial Informatics"
 publication_short: ""
 
-abstract: Identification of abnormal source hidden in distributed parameter systems (DPSs) belongs to the category of inverse source problems. It is important in industrial applications but seldom studied. In this article, we make the first attempt to investigate the abnormal spatio-temporal (S-T) source identification for a class of DPSs. An inverse S-T model for abnormal source identification is developed for the first time. It consists of an adaptive state observer for source identification and an adaptive source estimation algorithm. One major advantage of the proposed inverse S-T model is that only the system output is utilized, without any state measurement. Theoretic analysis is conducted to guarantee the convergence of the estimation error. Finally, the performance of the proposed method is evaluated on a heat transfer rod with an abnormal S-T source.
+abstract: A novel data-driven approach is proposed to localize the abnormality for distributed parameter systems (DPSs) in this paper. The cross-correlation order of DPSs in the space domain is first obtained by the cumulants-based identification method. Then, a spatial augmented matrix of the spatial-temporal distribution data is formed and a dynamic spatial independent component analysis method is proposed for independent decomposition. The dominant spatial independent components will be extracted and the spatial residuals can be produced for spatial reference statistics. Through the kernel density estimation method, the confidence bounds of these statistics in normal condition (abnormality free) can be established as the spatial references. These unique two references will guarantee the reliable spatial localization of abnormality. Different from model-based methods that rely on an explicit system model of the process, the proposed approach is model free and only uses recorded process data. Experiments on two typical DPSs demonstrate the effectiveness of the proposed approach.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we make the first attempt to solve the interesting yet challenging problem, i.e., identification of spatio-temporal source with unknown shape function using the idea of adaptive observers. 
+summary: In this work, a nove data-driven approach is proposed for abnormality localization of DPSs motivated by the spatial independent component analysis (SICA) used in functional Magnetic Resonance Imaging (fMRI). 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936866
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8643841
 url_code: ''
 url_dataset: ''
 url_poster: ''
