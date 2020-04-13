@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -17,24 +17,24 @@ date_format = "Jan 2006"
    Required fields are `title`, `company`, and `date_start`.
    Leave `date_end` empty if it's your current employer.
    Begin/end multi-line descriptions with 3 quotes `"""`.
- # [[experience]]
- # title = "Visiting Student"
- # company = "AKS Institute, University of Duisburg-Essen"
- # company_url = "https://www.uni-due.de/aks/index_en.php"
- # location = "47057 Duisburg, Germany"
- # date_start = "2019-08-01"
- # date_end = "2019-11-01"
- # description = """Conducting research on fault diagnosis of distributed parameter systems under the supervision of Prof. Dr.-Ing. Steven X. Ding."""
- #  Responsibilities include:
+  [[experience]]
+  title = "Visiting Student"
+  company = "AKS Institute, University of Duisburg-Essen"
+  company_url = "https://www.uni-due.de/aks/index_en.php"
+  location = "47057 Duisburg, Germany"
+  date_start = "2019-08-01"
+  date_end = "2019-11-01"
+  description = """Conducting research on fault diagnosis of distributed parameter systems under the supervision of Prof. Dr.-Ing. Steven X. Ding."""
+   Responsibilities include:
   
- #  * Analysing
- #  * Modelling
- #  * Deploying
+   * Analysing
+   * Modelling
+   * Deploying
   """
 
  [[experience]]
-  title = "Professor"
-  company = "University A"
+  title = "Visiting Student"
+  company = "AKS Institute, University of Duisburg-Essen"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
