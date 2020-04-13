@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "47057 Duisburg, Germany"
   date_start = "2019-08-01"
   date_end = "2019-11-01"
-  description = "Conducting research on fault diagnosis of distributed parameter systems under the supervision of Prof. Dr.-Ing. Steven X. Ding"
+  description = """Conducting research on fault diagnosis of distributed parameter systems under the supervision of Prof. Dr.-Ing. Steven X. Ding."""
   # Responsibilities include:
   
   # * Analysing
