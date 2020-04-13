@@ -26,7 +26,8 @@ interests:
 - Battery Management System
 - Distributed Parameter Systems
 
-
+collaborators:
+- Dr. Bing-Chuan Wang
 
 education:
   courses:
@@ -40,8 +41,7 @@ education:
     institution: Wuhan University, Wuhan, China
     year: 2014
 
-collaborators:
-- Dr. Bing-Chuan Wang
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
