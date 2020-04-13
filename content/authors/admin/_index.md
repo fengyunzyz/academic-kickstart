@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student at department of SEEM
+role: PhD student at department of SEEM a
 
 # Organizations/Affiliations
 organizations:
