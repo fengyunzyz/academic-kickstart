@@ -1,9 +1,10 @@
 ---
-title: "An example journal article"
+title: "Abnormal Source Identification for Parabolic Distributed Parameter Systems"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+-  Han-Xiong Li 
+
+date: "2019-12-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*IEEE Transactions on Systems, Man, and Cybernetics: Systems"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Identification of abnormal source hidden in distributed parameter systems (DPSs) belongs to the category of inverse source problems. It is important in industrial applications but seldom studied. In this article, we make the first attempt to investigate the abnormal spatio-temporal (S-T) source identification for a class of DPSs. An inverse S-T model for abnormal source identification is developed for the first time. It consists of an adaptive state observer for source identification and an adaptive source estimation algorithm. One major advantage of the proposed inverse S-T model is that only the system output is utilized, without any state measurement. Theoretic analysis is conducted to guarantee the convergence of the estimation error. Finally, the performance of the proposed method is evaluated on a heat transfer rod with an abnormal S-T source.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
