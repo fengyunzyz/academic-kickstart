@@ -76,6 +76,6 @@ user_groups:
 Yun Feng is a PhD student at the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong.
 
 Collaborators:
-- Dr. Bing-Chuan Wang
+- Dr. Bing-Chuan Wang, url: "http://www.escience.cn/people/wangbingchuan/index.html"
 
 
