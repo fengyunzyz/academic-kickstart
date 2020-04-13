@@ -23,16 +23,16 @@ publication_short: ""
 abstract: Identification of abnormal source hidden in distributed parameter systems (DPSs) belongs to the category of inverse source problems. It is important in industrial applications but seldom studied. In this article, we make the first attempt to investigate the abnormal spatio-temporal (S-T) source identification for a class of DPSs. An inverse S-T model for abnormal source identification is developed for the first time. It consists of an adaptive state observer for source identification and an adaptive source estimation algorithm. One major advantage of the proposed inverse S-T model is that only the system output is utilized, without any state measurement. Theoretic analysis is conducted to guarantee the convergence of the estimation error. Finally, the performance of the proposed method is evaluated on a heat transfer rod with an abnormal S-T source.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936866
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,12 +63,12 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management  software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
