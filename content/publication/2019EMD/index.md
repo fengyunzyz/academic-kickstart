@@ -27,7 +27,7 @@ summary: In this work, a unified framework is proposed by us to predict epidemic
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
