@@ -23,7 +23,7 @@ publication_short: ""
 abstract: A novel data-driven approach is proposed to localize the abnormality for distributed parameter systems (DPSs) in this paper. The cross-correlation order of DPSs in the space domain is first obtained by the cumulants-based identification method. Then, a spatial augmented matrix of the spatial-temporal distribution data is formed and a dynamic spatial independent component analysis method is proposed for independent decomposition. The dominant spatial independent components will be extracted and the spatial residuals can be produced for spatial reference statistics. Through the kernel density estimation method, the confidence bounds of these statistics in normal condition (abnormality free) can be established as the spatial references. These unique two references will guarantee the reliable spatial localization of abnormality. Different from model-based methods that rely on an explicit system model of the process, the proposed approach is model free and only uses recorded process data. Experiments on two typical DPSs demonstrate the effectiveness of the proposed approach.
 
 # Summary. An optional shortened abstract.
-summary: In this work, a nove data-driven approach is proposed for abnormality localization of DPSs motivated by the spatial independent component analysis (SICA) used in functional Magnetic Resonance Imaging (fMRI). 
+summary: In this work, a novel data-driven approach is proposed for abnormality localization of DPSs motivated by the spatial independent component analysis (SICA) used in functional Magnetic Resonance Imaging (fMRI). 
 
 tags:
 - Source Themes
