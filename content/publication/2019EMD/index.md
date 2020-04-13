@@ -1,5 +1,5 @@
 ---
-title: "Abnormal Source Identification for Parabolic Distributed Parameter Systems"
+title: "A Unified Framework of Epidemic Spreading Prediction by Empirical Mode Decomposition- Based Ensemble Learning Techniques"
 authors:
 - admin
 - Bing-Chuan Wang 
