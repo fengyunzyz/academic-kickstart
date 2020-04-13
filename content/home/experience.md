@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "AKS Institute, University of Duisburg-Essen"
   company_url = "https://www.uni-due.de/aks/index_en.php"
   location = "47057 Duisburg, Germany"
-  date_start = "2019-08-01"
+  date_start = "2019-07-01"
   date_end = "2019-11-01"
   description = """Conducting research on fault diagnosis of distributed parameter systems under the supervision of Prof. Dr.-Ing. Steven X. Ding."""
  #  Responsibilities include:
