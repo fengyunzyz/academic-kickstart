@@ -26,9 +26,6 @@ interests:
 - Battery Management System
 - Distributed Parameter Systems
 
-collaborators:
-- Dr. Bing-Chuan Wang
-
 education:
   courses:
   - course: PhD in Systems Engineering and Engineering Management
@@ -76,6 +73,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yun Feng is a PhD student at the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong. 
+Yun Feng is a PhD student at the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong.
+
+Collaborators:
+- Dr. Bing-Chuan Wang
 
 
