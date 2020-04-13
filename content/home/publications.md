@@ -25,9 +25,9 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Abnormal source identification for parabolic distributed parameter systems"
-    category = "Abnormal source identification for parabolic distributed parameter systems"
-    publication_type = "2"
+    tag = ""
+    category = ""
+    publication_type = ""
     author = ""
     exclude_featured = false
   
