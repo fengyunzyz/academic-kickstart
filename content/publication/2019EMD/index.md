@@ -2,10 +2,10 @@
 title: "Abnormal Source Identification for Parabolic Distributed Parameter Systems"
 authors:
 - admin
--  Han-Xiong Li 
+- Bing-Chuan Wang 
 
-date: "2019-12-09T00:00:00Z"
-doi: "10.1109/TSMC.2019.2956985"
+date: "2019-05-24T00:00:00Z"
+doi: "10.1109/TCSS.2019.2915615"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+publication: "IEEE Transactions on Computational Social Systems "
 publication_short: ""
 
-abstract: Identification of abnormal source hidden in distributed parameter systems (DPSs) belongs to the category of inverse source problems. It is important in industrial applications but seldom studied. In this article, we make the first attempt to investigate the abnormal spatio-temporal (S-T) source identification for a class of DPSs. An inverse S-T model for abnormal source identification is developed for the first time. It consists of an adaptive state observer for source identification and an adaptive source estimation algorithm. One major advantage of the proposed inverse S-T model is that only the system output is utilized, without any state measurement. Theoretic analysis is conducted to guarantee the convergence of the estimation error. Finally, the performance of the proposed method is evaluated on a heat transfer rod with an abnormal S-T source.
+abstract: In this paper, a unified susceptible-exposed-infected-susceptible-aware (SEIS-A) framework is proposed to combine the epidemic spreading process with individuals' self-query behaviors on the Internet. An epidemic spreading prediction model that contains two phases is established based on the SEIS-A framework. To deal with the nonstationary complex characteristic of the time series data of disease density, it is decomposed through the empirical mode decomposition (EMD) method to obtain the intrinsic mode functions (IMFs) in phase I. To enhance the prediction performance, the ensemble learning techniques that use the self-query data as an external input are applied to these IMFs in phase II. Finally, an empirical study on the prediction of weekly consultation rates of hand-foot-and-mouth disease (HFMD) in Hong Kong is conducted to validate the effectiveness of the proposed method. The main advantage of this method is that it outperforms other learning methods on fluctuating complex epidemic spreading data.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we make the first attempt to solve the interesting yet challenging problem, i.e., identification of spatio-temporal source with unknown shape function using the idea of adaptive observers. 
+summary: In this work, a unified framework is proposed by us to predict epidemic spreading scale on networks using ensemble learning techniques. 
 
 tags:
 - Source Themes
@@ -32,7 +32,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936866
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8721720
 url_code: ''
 url_dataset: ''
 url_poster: ''
