@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Identification of abnormal source hidden in distributed parameter systems (DPSs) belongs to the category of inverse source problems. It is important in industrial applications but seldom studied. In this article, we make the first attempt to investigate the abnormal spatio-temporal (S-T) source identification for a class of DPSs. An inverse S-T model for abnormal source identification is developed for the first time. It consists of an adaptive state observer for source identification and an adaptive source estimation algorithm. One major advantage of the proposed inverse S-T model is that only the system output is utilized, without any state measurement. Theoretic analysis is conducted to guarantee the convergence of the estimation error. Finally, the performance of the proposed method is evaluated on a heat transfer rod with an abnormal S-T source.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we make the first attempt to solve the interesting yet challenging problem, i.e., identifiction of spatio-temporal source with unknown shape function using the idea of adaptive observers. 
+summary: In this work, we make the first attempt to solve the interesting yet challenging problem, i.e., identification of spatio-temporal source with unknown shape function using the idea of adaptive observers. 
 
 tags:
 - Source Themes
