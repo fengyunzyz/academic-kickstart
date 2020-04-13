@@ -30,9 +30,9 @@ date_format = "Jan 2006"
 #   * Analysing
 #   * Modelling
 #   * Deploying
-  """
+#  """
 
- [[experience]]
+# [[experience]]
 #  title = "Visiting Student"
 #  company = "AKS Institute, University of Duisburg-Essen"
 #  company_url = ""
