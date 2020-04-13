@@ -12,7 +12,7 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
+ Experiences.
    Add/remove as many `[[experience]]` blocks below as you like.
    Required fields are `title`, `company`, and `date_start`.
    Leave `date_end` empty if it's your current employer.
