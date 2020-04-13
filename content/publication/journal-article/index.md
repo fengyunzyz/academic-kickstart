@@ -5,7 +5,7 @@ authors:
 -  Han-Xiong Li 
 
 date: "2019-12-09T00:00:00Z"
-doi: ""
+doi: "10.1109/TSMC.2019.2956985"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Systems, Man, and Cybernetics: Systems"
+publication: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
 publication_short: ""
 
 abstract: Identification of abnormal source hidden in distributed parameter systems (DPSs) belongs to the category of inverse source problems. It is important in industrial applications but seldom studied. In this article, we make the first attempt to investigate the abnormal spatio-temporal (S-T) source identification for a class of DPSs. An inverse S-T model for abnormal source identification is developed for the first time. It consists of an adaptive state observer for source identification and an adaptive source estimation algorithm. One major advantage of the proposed inverse S-T model is that only the system output is utilized, without any state measurement. Theoretic analysis is conducted to guarantee the convergence of the estimation error. Finally, the performance of the proposed method is evaluated on a heat transfer rod with an abnormal S-T source.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In this work, we make the first attempt to solve the interesting yet challenging problem, i.e., identifiction of spatio-temporal source with unknown shape function using the idea of adaptive observers. 
 
 tags:
 - Source Themes
@@ -63,12 +63,12 @@ projects: []
 slides: example
 ---
 
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management  software.
-# {{% /alert %}}
+ {{% alert note %}}
+ Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management  software.
+ {{% /alert %}}
 
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
+ {{% alert note %}}
+ Click the *Slides* button above to demo Academic's Markdown slides feature.
+ {{% /alert %}}
 
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
