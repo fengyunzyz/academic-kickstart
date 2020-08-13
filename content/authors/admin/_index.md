@@ -73,7 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Yun Feng is currently a PhD student at the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong, under the supervision of Prof. Han-Xiong Li.
+Dr. Yun Feng received his Ph.D. degree from the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong in 2020 (Supervisor: Prof. Han-Xiong Li).
 
 Collaborators:
 - Dr. Bing-Chuan Wang (http://www.escience.cn/people/wangbingchuan/index.html)
