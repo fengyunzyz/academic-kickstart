@@ -76,6 +76,6 @@ user_groups:
 Dr. Yun Feng received his Ph.D. degree from the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong in 2020 (Supervisor: Prof. Han-Xiong Li).
 
 Collaborators:
-- Dr. Bing-Chuan Wang (http://www.escience.cn/people/wangbingchuan/index.html)
+- Dr. Bing-Chuan Wang (https://www.researchgate.net/profile/Wang_Bingchuan)
 
 
