@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "yun.feng@my.cityu.edu.hk".
+  link: '#contact'  # For a direct email link, use "fyrobot@hnu.edu.cn".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -73,7 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Dr. Yun Feng received his Ph.D. degree from the Department of Systems Engineering and Engineering Management, City University of Hong Kong, Hong Kong in 2020 (Supervisor: Prof. Han-Xiong Li).
+I am currently a postdoc research fellow with the National Engineering Laboratory for Robot Visual Perception & Control Technology at Hunan University.  
 
 Collaborators:
 - Dr. Bing-Chuan Wang (https://www.researchgate.net/profile/Wang_Bingchuan)
